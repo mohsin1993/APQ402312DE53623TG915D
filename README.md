@@ -1,4 +1,3 @@
-```
 # React Project with Vite
 
 This project is a simple React application bootstrapped with Vite. That allows to browser through public repositories and filters based on stars and search term.
